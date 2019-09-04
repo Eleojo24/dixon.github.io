@@ -1,0 +1,70 @@
+body {
+    background-color:antiquewhite;
+}
+img {
+    border-radius: 100px;
+    position: relative;
+    top: 15px;
+}
+
+header {
+    background-image: url(https://res.cloudinary.com/dt6adjgra/image/upload/c_scale,e_blur:1207,h_399,q_89,w_1675/v1567078219/My%20Images/css%20pics/garrett-parker-DlkF4-dbCOU-unsplash_oqcfft.jpg
+);
+}
+img{
+    padding-top:7px;
+}
+#topi{
+    font-style: normal;
+    font-family: monospace;
+}
+
+h1{
+    font-family:Alegreya;
+    color:ghostwhite;
+    font-size: 35px;
+    font-stretch:expanded;
+}
+
+#para1{
+    font-family:monospace;
+    color:ghostwhite;
+    font-size: 13px;
+    position: relative;
+    bottom: 18px;
+}
+h3 {
+    background-color:silver;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+P{
+    color:black;
+    font-family:monospace;
+    padding-left: 5px;
+    
+}
+
+b{
+    padding-left: 10px; 
+}
+i{
+    padding-right: 30px;
+}
+p2{
+    font-family:monospace;
+    text-align: center;
+}
+
+footer{background-color: #0d0d0d;
+		height: 55px;
+		color:darkgrey;
+		align-items: center ;
+		padding-left: 10px;
+		}
+
+
+
+    
